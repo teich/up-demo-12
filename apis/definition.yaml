@@ -48,7 +48,6 @@ spec:
                     enum:
                       - small
                       - medium
-                      - large
                     description: |
                       The machine size for this PostgreSQLInstance.
                   storage:
