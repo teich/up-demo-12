@@ -23,3 +23,5 @@ spec:
   dependsOn:
     - provider: xpkg.upbound.io/upbound/provider-aws
       version: ">=v0.24.0"
+    - configuration: xpkg.upbound.io/upbound/platform-ref-gcp
+      version: ">=v0.0.7"
